@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá, eu sou o Kleiton Ferreira
 
-<!--
-**Kleiton3023249/Kleiton3023249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on city hall as an administrative agent
+- 🌱 I’m currently learning analysis and systems development
+- 📫 How to reach me: kleytonferreira9@gmail.com
+- 😄 Pronouns: ele/dele
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<dev>
+  <a href="https://github.com/Kleiton3023249">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kleiton3023249&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kleiton3023249&show_icons=true&theme=dark&hide_progress=true"/>
+</dev>
